@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/81/bot/src/bot
+END
+HtmlParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/78/bot/src/bot/HtmlParser.java
+END
+HtmlParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/78/bot/src/bot/HtmlParserTest.java
+END
+XMLReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/77/bot/src/bot/XMLReader.java
+END
+Dice.java
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/77/bot/src/bot/Dice.java
+END
+DiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/78/bot/src/bot/DiceTest.java
+END
+Main.java
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/77/bot/src/bot/Main.java
+END
+HelperClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/77/bot/src/bot/HelperClass.java
+END
+DbConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/81/bot/src/bot/DbConnection.java
+END
+Irc.java
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/78/bot/src/bot/Irc.java
+END
